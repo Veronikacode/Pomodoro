@@ -18,3 +18,6 @@ You can reset the timer by clicking the reset button.
 ### Start Window
 
 <img width="365" alt="Pomodoro" src="https://user-images.githubusercontent.com/98991020/194648817-2daff23f-a3d9-4fa2-9758-ab0436f6c46a.png">
+
+### Run
+To run the project just clone the repo, go into the pomodoro folder and run pomodoro.py in your terminal.
